@@ -60,6 +60,10 @@ const config = {
     ],
   ],
 
+  plugins: [[require.resolve("docusaurus-lunr-search"), {
+    enableHighlight: true
+  }]],
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({

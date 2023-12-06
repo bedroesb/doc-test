@@ -1,0 +1,1 @@
+(self.webpackChunkvib_data_core_doc=self.webpackChunkvib_data_core_doc||[]).push([[8217],{7533:(c,a,e)=>{"use strict";e.d(a,{Z:()=>_});var s=e(1336);const _=s},5525:()=>{}}]);

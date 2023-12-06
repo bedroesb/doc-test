@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvib_data_core_doc=self.webpackChunkvib_data_core_doc||[]).push([[2572],{2572:(c,e,a)=>{a.r(e)}}]);

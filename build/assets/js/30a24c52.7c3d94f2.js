@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvib_data_core_doc=self.webpackChunkvib_data_core_doc||[]).push([[453],{8605:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/blog/tags/hello","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

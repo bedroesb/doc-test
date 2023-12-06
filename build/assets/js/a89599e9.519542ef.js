@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvib_data_core_doc=self.webpackChunkvib_data_core_doc||[]).push([[3081],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
